@@ -25,11 +25,11 @@
 - name: Publications on the effect of the COVID-19 pandemic on vaccine preventable diseases
   id: 
   pubs:
-    - author: '**Pre-print of VPD-COVID phase 1 paper** - Gaythorpe, K., Abbas, K., Huber, J., Karachaliou, A., Thakkar, N., Woodruff, K., Li, X., Echeverria-Londono, S., VIMC Working Group on COVID-19 Impact on Vaccine Preventable Disease, Ferrari, M., Jackson, M.L.,  McCarthy, K., Perkins, A.,  Trotter, C., Jit, M.'
+    - author: '**VPD-COVID phase 1 paper** - Gaythorpe, K.A.M., Abbas, K., Huber, J., Karachaliou, A., Thakkar, N., Woodruff, K., Li, X., Echeverria-Londono, S., VIMC Working Group on COVID-19 Impact on Vaccine Preventable Disease, Ferrari, M., Jackson, M.L.,  McCarthy, K., Perkins, T.A.,  Trotter, C., Jit, M.'
       year:   2021
-      title:  'Health impact of routine immunisation service disruptions and mass vaccination campaign suspensions caused by the COVID-19 pandemic: Multimodel comparative analysis of disruption scenarios for measles, meningococcal A, and yellow fever vaccination in 10 low- and lower middle-income countries'
-      info:   medRxiv
-      url:    https://www.medrxiv.org/content/10.1101/2021.01.25.21250489v1
+      title:  'Impact of COVID-19-related disruptions to measles, meningococcal A, and yellow fever vaccination in 10 countries'
+      info:   eLife
+      url:    https://elifesciences.org/articles/67023
          
     - author: Abbas, K., Procter S. R., Flasche S.
       year:   2020
