@@ -369,7 +369,14 @@
   title_link: /models/typhoid-fever
   email: virginia.pitzer@yale.edu 
   img: '/img/people/PitzerGinny.png'
-    
+ 
+- name: Holly Burrows
+  url: https://www.linkedin.com/in/hollyaburrows/
+  title: Typhoid Fever Model
+  title_link: /models/typhoid-fever
+  email: holly.burrows@yale.edu
+  img: '/img/people/Holly_Burrows.jpg'
+  
 - name: Cynthia Chen Huijun
   url: https://sph.nus.edu.sg/faculty-directory/chen-huijun-cynthia/
   title: PCV (PcVAC)
