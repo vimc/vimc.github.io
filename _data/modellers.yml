@@ -59,13 +59,6 @@
   title_link: /models/hib
   email: benjamin.alan.lopman@emory.edu
   img: '/img/people/Ben_Lopman.png'  
-  
-- name: Molly Steele
-  url: https://www.blopman.net/ourteam
-  title: Rotavirus Model 
-  title_link: /models/hib
-  email: molly.steele@emory.edu   
-  img: '/img/people/Molly_Steele.png'  
 
 - name: Alicia Kraay
   url: https://www.blopman.net/ourteam
@@ -216,13 +209,6 @@
   title_link: /models/men-a
   email: ak889@cam.ac.uk 
   img: '/img/people/Andromachi_Karachaliou.png'
-
-- name: Mike Jackson
-  url: https://www.kpwashingtonresearch.org/our-research/our-scientists/jackson-michael-l/
-  title: MenA model 
-  title_link: /models/men-a#cdc
-  email: Michael.L.Jackson@kp.org
-  img: '/img/people/Mike_Jackson.png'
   
 - name: Eric Johnson
   url: 
