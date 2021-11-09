@@ -67,6 +67,13 @@
   email: alicia.nicole.mullis.kraay@emory.edu   
   img: '/img/people/Kraay_Headshot-square.jpg' 
   
+- name: Aniruddha Deshpande
+  url:
+  title: Rotavirus Model 
+  title_link: /models/hib
+  email: aniruddha.deshpande@emory.edu
+  img: '/img/people/placeholder.png'
+  
 - name: Matthew Ferrari
   url: http://bio.psu.edu/directory/mjf283
   title: Measles model
