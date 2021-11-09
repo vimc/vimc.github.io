@@ -256,14 +256,7 @@
   title_link: /models/yellow-fever   
   email: smoore15@nd.edu   
   img: '/img/people/Sean_Moore.png'
-  
-- name: John Huber  
-  url: https://biology.nd.edu/about/personnel-directory/
-  title: Yellow fever model   
-  title_link: /models/yellow-fever   
-  email: John.H.Huber.24@nd.edu   
-  img: '/img/people/John_Huber.png'
- 
+   
 - name: Emilia Vynnycky
   url: http://www.lshtm.ac.uk/aboutus/people/vynnycky.emilia
   title: Rubella model 
