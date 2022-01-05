@@ -339,16 +339,7 @@
   title2_link: /models/typhoid-fever
   email: jonghoon.kim@ivi.int 
   img: '/img/people/JongHoon_Kim.png'
-    
-- name: Vittal Mogasale 
-  url: https://www.linkedin.com/in/vittal-mogasale-2794966/ 
-  title: Cholera Model
-  title_link: /models/cholera
-  title2: Typhoid Fever Model
-  title2_link: /models/typhoid-fever
-  email: vmogasale@ivi.int 
-  img: '/img/people/Vittal Mogasale.png'
-  
+      
 - name: Virginia Pitzer
   url: https://medicine.yale.edu/lab/pitzer/
   title: Typhoid Fever Model
