@@ -25,6 +25,12 @@
 - name: Publications on the effect of the COVID-19 pandemic on vaccine preventable diseases
   id: 
   pubs:
+    - author: Toor, J., Li, X., Jit, M., Trotter, C.L., Echeverria-Londono, S., Hartner, A-M., Roth, J., Portnoy, A., Abbas, K., Ferguson, N.M., Gaythorpe, K.A.M.
+      year:   2022
+      title:  'COVID-19 impact on routine immunisations for vaccine-preventable diseases: Projecting the effect of different routes to recovery'
+      info:   MedRxiv
+      url:    https://doi.org/10.1101/2022.01.07.22268891
+      
     - author: 'Gaythorpe, K.A.M., Abbas, K., Huber, J., Karachaliou, A., Thakkar, N., Woodruff, K., Li, X., Echeverria-Londono, S., VIMC Working Group on COVID-19 Impact on Vaccine Preventable Disease, Ferrari, M., Jackson, M.L.,  McCarthy, K., Perkins, T.A.,  Trotter, C., Jit, M.'
       year:   2021
       title:  'Impact of COVID-19-related disruptions to measles, meningococcal A, and yellow fever vaccination in 10 countries'
