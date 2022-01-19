@@ -59,13 +59,20 @@
   title_link: /models/hib
   email: benjamin.alan.lopman@emory.edu
   img: '/img/people/Ben_Lopman.png'  
-  
+    
 - name: Aniruddha Deshpande
   url:
   title: Rotavirus Model 
   title_link: /models/hib
   email: aniruddha.deshpande@emory.edu
   img: '/img/people/placeholder.png'
+  
+- name: Alicia Kraay
+  url: https://www.ahs.illinois.edu/kraay
+  title: Rotavirus Model 
+  title_link: /models/rota
+  email: akraay@illinois.edu
+  img: '/img/people/Kraay_Headshot-square.jpg'  
   
 - name: Matthew Ferrari
   url: http://bio.psu.edu/directory/mjf283
