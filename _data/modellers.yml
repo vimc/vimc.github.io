@@ -59,13 +59,6 @@
   title_link: /models/hib
   email: benjamin.alan.lopman@emory.edu
   img: '/img/people/Ben_Lopman.png'  
-
-- name: Alicia Kraay
-  url: https://www.blopman.net/ourteam
-  title: Rotavirus Model 
-  title_link: /models/hib
-  email: alicia.nicole.mullis.kraay@emory.edu   
-  img: '/img/people/Kraay_Headshot-square.jpg' 
   
 - name: Aniruddha Deshpande
   url:
@@ -101,6 +94,13 @@
   title_link: /models/measles#LSHTM
   email: Megan.Auzenbergs@lshtm.ac.uk
   img: '/img/people/Megan_Auzenbergs.jpg' 
+  
+- name: Simon Procter
+  url: 
+  title: Measles (DynaMICE) 
+  title_link: /models/measles#LSHTM
+  email: simon.procter@lshtm.ac.uk  
+  img: '/img/people/placeholder.png' 
   
 - name: Han Fu
   title: Measles (DynaMICE)
