@@ -15,6 +15,8 @@ title: Other resources
 
 **[Technical description of impact estimation methods and VIMC impact estimates (html)](/resources/VIMC_impact_estimates-03Sep19.html)**
 
+**[Coverage clustering and indirect benefit (pdf)](/resources/coverage_clustering_and_indirect_benefit_20220311-103212-57bd4691_coverage_clustering_vaccine_indirect_benefit.pdf)**
+
 **[VIMC standard guidance on DALYs](/resources/VIMC-model-run-DALYs-guidance_20190917-121647-d5d6ef09_report.pdf)**
 
 ## Consortium materials
