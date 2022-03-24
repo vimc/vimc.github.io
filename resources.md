@@ -25,7 +25,7 @@ title: Other resources
 
 **[Consortium Summary 2017 (pdf)](/resources/VIMC_consortium_summary_2017.pdf)**
 
-**[Consortium Organizational Chart 2020 (pdf)](/resources/VIMC_organogram_2020.pdf)**    
+**[Consortium Organizational Chart 2022 (pdf)](/resources/VIMC organogram Mar2022.pdf)**    
 
 **[Consortium model quality standards (pdf)](/resources/3_VIMC_model_standards_2020.pdf)**
 
