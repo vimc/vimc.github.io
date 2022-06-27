@@ -2,6 +2,8 @@
 title: VIMC short course - Mathematical Modelling for Vaccine-preventable Diseases
 
 ---
+![image](https://user-images.githubusercontent.com/77858757/175917862-11db280d-e595-45d1-a0eb-ff215ec6462a.png)
+
 The **Vaccine Impact Modelling Consortium (VIMC)** and the **University of Cambridge** are running an intensive 6-day short course on **Mathematical Modelling for Vaccine-preventable Diseases** for participants from low and middle-income countries. 
 
 The programme combines lectures, discussions and seminars with a series of in-depth practical sessions that help to facilitate understanding of the underlying theory by putting these approaches into practice. The course will use the open-source programming language of R and is adapted from the well-established Wellcome Genome Campus [Mathematical Models for Infectious Disease Dynamics Course](https://coursesandconferences.wellcomeconnectingscience.org/event/mathematical-models-for-infectious-disease-dynamics-virtual-20210308/). 
