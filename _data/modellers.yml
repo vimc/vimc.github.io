@@ -353,6 +353,15 @@
   title2_link: /models/typhoid-fever
   email: jonghoon.kim@ivi.int 
   img: '/img/people/JongHoon_Kim.png'
+  
+  name: Chaelin Kim
+  url: 
+  title: Cholera Model
+  title_link: /models/cholera
+  title2: Typhoid Fever Model
+  title2_link: /models/typhoid-fever
+  email: Chaelin.Kim@ivi.int
+  img: '/img/people/placeholder.png' 
       
 - name: Virginia Pitzer
   url: https://medicine.yale.edu/lab/pitzer/
