@@ -410,8 +410,8 @@
       url:    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5154464/
       
       
-- name: Other
-  id: other
+- name: Multi
+  id: multi
   pubs:
     - author: Ali HA, Hartner AM, Echeverria-Londono S, Roth J, Li X, Abbas K, Portnoy A, Vynnycky E, Woodruff K, Ferguson NM, Toor J, Gaythorpe KAM
       year:   2022
