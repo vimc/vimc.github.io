@@ -18,6 +18,8 @@ The programme is generously sponsored by the [Vaccine Impact Modelling Consortiu
 
 **Location:** [The Møller Institute](https://www.mollerinstitute.com/), Cambridge, UK
 
+There is a short deadline for applications, which closes on **8th July 2022.** 
+
 **[Apply now](https://forms.gle/AWrnX2yjMiXvjp5w8)** to learn how to build, interpret and estimate models for infectious disease dynamics and control through vaccination.
 
 
