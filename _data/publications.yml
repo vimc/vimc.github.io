@@ -253,6 +253,13 @@
 - name: Measles
   id: measles
   pubs:
+  
+    - author: Echeverria-Londono S, Hartner AM, Li X, Roth J, Portnoy A, Sbarra A.N, Abbas K, Ferrari M, Fu H, Jit M, Ferguson N.M, Gaythorpe K.A.M
+      year:   2022
+      title:  'Exploring the subnational inequality and heterogeneity of the impact of routine measles immunisation in Africa'
+      info:   Vaccine
+      url:    https://doi.org/10.1016/j.vaccine.2022.09.049
+  
     - author: Portnoy A, Hsieh Y, Abbas K, Klepac P, Santos H, Brenzel L, Jit M, Ferrari M
       year:   2022
       title:  'Differential health impact of intervention programs for time-varying disease risk: a measles vaccination modeling study'
