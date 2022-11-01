@@ -1,4 +1,3 @@
-   
 - name: Katy Gaythorpe
   title: VIMC Research Lead
   email: k.gaythorpe@imperial.ac.uk
@@ -14,10 +13,16 @@
   email: x.li@imperial.ac.uk 
   img: /img/people/Xiang_Li.png 
   
-- name: Jaspreet Toor
+- name: Jeremy Roth
   title: Consortium Research Fellow
-  email: j.toor@imperial.ac.uk
-  img: /img/people/Jaspreet Toor.jpg
+  email: j.roth@imperial.ac.uk
+  img: /img/people/Jeremy_Roth.jpg
+  
+- name: Anna-Maria Hartner
+  url: https://www.linkedin.com/in/ahartner/
+  title: Consortium Research Assistant
+  email: a.hartner@imperial.ac.uk
+  img: /img/people/Anna-Maria_Hartner.jpeg
   
 - name: Robert Ashton 
   title: R Software Developer
@@ -45,7 +50,3 @@
   email: e.russell@imperial.ac.uk
   img: /img/people/Emma_Russell.png
   
-- name: Mark Woodbridge
-  title: Senior Web Application Developer 
-  email: m.woodbridge@imperial.ac.uk
-  img: /img/people/mark_woodbridge_2.jpg

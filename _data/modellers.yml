@@ -31,6 +31,13 @@
   title_link: /models/hib#jhu
   email: yvonneyotam@jhu.edu
   img: '/img/people/Yvonne_Tam.png'
+  
+- name: Emily Carter
+  url: https://www.jhsph.edu/faculty/directory/profile/3517/emily-d-carter 
+  title: Lives Saved Tool (LiST) (Hib, rotavirus and pneumococcal model)
+  title_link: /models/hib#jhu
+  email: ecarter@jhu.edu 
+  img: '/img/people/Emily_Carter.png'
  
 - name: Neff Walker
   url: https://www.jhsph.edu/faculty/directory/profile/1945/neff-walker
@@ -38,57 +45,114 @@
   title_link: /models/hib#jhu
   email: pneffwalker@yahoo.com
   img: '/img/people/placeholder.png'
- 
-- name: Mark Jit
-  url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
-  title: Measles Model (DynaMICE)
-  title_link: /models/measles#LSHTM
-  title2: HPV Model(PRIME), PCV Model
-  title2_link: /models/hpv 
-  email: Mark.Jit@lshtm.ac.uk
-  img: '/img/people/Mark_Jit.png'    
-    
-- name: Kiesha Prem
-  url: 
-  title: PRIME (HPV model) and DynaMICE
-  email: Kiesha.Prem@lshtm.ac.uk
-  img: '/img/people/Kiesha_Prem.png'
   
-- name: Kaja Abbas   
-  url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
-  title: Measles (DynaMICE)
-  title_link: /models/measles#LSHTM
-  title2: HPV Model(PRIME), Hib/RV Model
-  title2_link: /models/hpv
-  email: Kaja.Abbas@lshtm.ac.uk   
-  img: '/img/people/Kaja_Abbas.png'   
-  
-- name: Petra Klepac
-  url: http://www.petraklepac.com/Site/Home.html   
-  title: UNIVAC, PRIME and DynaMICE   
-  email: Petra.Klepac@lshtm.ac.uk
-  img: '/img/people/Petra_Klepac.png'   
- 
 - name: Colin Sanderson 
   url: http://www.lshtm.ac.uk/aboutus/people/sanderson.colin
   title: UNIVAC (Hib, rotavirus and pneumococcal model) 
   title_link: /models/hib
   email: colin.sanderson@lshtm.ac.uk
   img: '/img/people/Colin_Sanderson.png'
-   
-- name: Marc Brisson
-  url: http://www.marc-brisson.net/
-  title: PRIME (HPV model) 
-  title_link: /models/hpv
-  email: marc.brisson@crchudequebec.ulaval.ca
-  img: '/img/people/Marc_Brisson.png'
+  
+- name: Ben Lopman
+  url: https://www.sph.emory.edu/faculty/profile/index.php?FID=benjamin-lopman-8568
+  title: Rotavirus Model 
+  title_link: /models/hib
+  email: benjamin.alan.lopman@emory.edu
+  img: '/img/people/Ben_Lopman.png'  
+    
+- name: Aniruddha Deshpande
+  url:
+  title: Rotavirus Model 
+  title_link: /models/hib
+  email: aniruddha.deshpande@emory.edu
+  img: '/img/people/placeholder.png'
+  
+- name: Alicia Kraay
+  url: https://www.ahs.illinois.edu/kraay
+  title: Rotavirus Model 
+  title_link: /models/rota
+  email: akraay@illinois.edu
+  img: '/img/people/Kraay_Headshot-square.jpg'  
+  
+- name: Matthew Ferrari
+  url: http://bio.psu.edu/directory/mjf283
+  title: Measles model
+  title_link: /models/measles
+  email: mjf283@psu.edu   
+  img: '/img/people/Matt_Ferrari.png'
 
+- name: Kirsten Eilertson
+  url: https://statistics.colostate.edu/person/?id=C41DED5545D219DB9B923C478BE09EA4&sq=t   
+  title: Measles model
+  title_link: /models/measles
+  email: Kirsten.Eilertson@colostate.edu   
+  img: '/img/people/Kirsten_Eilertson.png'
+  
 - name: Stéphane Verguet
   url: https://www.hsph.harvard.edu/stephane-verguet/
-  title: DynaMICE (Measles model)
+  title: Measles (DynaMICE) 
   title_link: /models/measles#LSHTM
   email: verguet@hsph.harvard.edu 
   img: '/img/people/Stephane_Verguet.png'
+  
+- name: Megan Auzenbergs
+  url: https://www.lshtm.ac.uk/aboutus/people/auzenbergs.megan
+  title: Measles (DynaMICE)
+  title_link: /models/measles#LSHTM
+  email: Megan.Auzenbergs@lshtm.ac.uk
+  img: '/img/people/Megan_Auzenbergs.jpg' 
+  
+- name: Simon Procter
+  url: 
+  title: Measles (DynaMICE) 
+  title_link: /models/measles#LSHTM
+  email: simon.procter@lshtm.ac.uk  
+  img: '/img/people/placeholder.png' 
+  
+- name: Han Fu
+  title: Measles (DynaMICE)
+  title_link: /models/measles
+  title2: HPV (PRIME) 
+  title2_link: /models/hpv
+  email: Han.Fu@lshtm.ac.uk
+  img: '/img/people/Han_Fu_2.png'
+ 
+- name: Mark Jit
+  url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
+  title: Measles (DynaMICE)
+  title_link: /models/measles#LSHTM
+  title2: HPV (PRIME), PCV Model
+  title2_link: /models/hpv 
+  email: Mark.Jit@lshtm.ac.uk
+  img: '/img/people/Mark_Jit.png'    
+      
+- name: Kaja Abbas   
+  url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
+  title: Measles (DynaMICE)
+  title_link: /models/measles#LSHTM
+  title2: HPV (PRIME), Hib/RV Model
+  title2_link: /models/hpv
+  email: Kaja.Abbas@lshtm.ac.uk   
+  img: '/img/people/Kaja_Abbas.png' 
+  
+- name: Kiesha Prem
+  url: 
+  title: HPV (PRIME), Measles (DynaMICE)
+  email: Kiesha.Prem@lshtm.ac.uk
+  img: '/img/people/Kiesha_Prem.png'
+  
+- name: Petra Klepac
+  url: http://www.petraklepac.com/Site/Home.html   
+  title: UNIVAC, HPV (PRIME), Measles (DynaMICE)
+  email: Petra.Klepac@lshtm.ac.uk
+  img: '/img/people/Petra_Klepac.png'   
+   
+- name: Marc Brisson
+  url: http://www.marc-brisson.net/
+  title: HPV (PRIME) 
+  title_link: /models/hpv
+  email: marc.brisson@crchudequebec.ulaval.ca
+  img: '/img/people/Marc_Brisson.png'
   
 - name: Steven Sweet
   url: http://chds.hsph.harvard.edu/People/Steven-Sweet/
@@ -123,8 +187,15 @@
   title: Japanese Encephalitis (JE) model
   title_link: /models/je
   email: hannah.clapham@nus.edu.sg    
-  img: '/img/people/Hannah_Clapham.png'   
-     
+  img: '/img/people/Hannah_Clapham.png'  
+    
+- name: Shreya Khandelwal
+  url: https://www.linkedin.com/in/shreya-k-2a827684/
+  title: Japanese Encephalitis (JE) model
+  title_link: /models/je
+  email: shreya@nus.edu.sg
+  img: '/img/people/Shreya_Khandelwal.JPG' 
+       
 - name: Sean Moore   
   url: http://biology.nd.edu/people/sean-moore/   
   title: Japanese Encephalitis (JE) model   
@@ -138,20 +209,6 @@
   title_link: /models/je
   email: qtran4@nd.edu
   img: '/img/people/Tran_Minh_Quan.png'
-
-- name: Matthew Ferrari
-  url: http://bio.psu.edu/directory/mjf283
-  title: Measles model
-  title_link: /models/measles
-  email: mjf283@psu.edu   
-  img: '/img/people/Matt_Ferrari.png'
-
-- name: Kirsten Eilertson
-  url: https://statistics.colostate.edu/person/?id=C41DED5545D219DB9B923C478BE09EA4&sq=t   
-  title: Measles model
-  title_link: /models/measles
-  email: Kirsten.Eilertson@colostate.edu   
-  img: '/img/people/Kirsten_Eilertson.png'
   
 - name: Caroline Trotter
   url: http://www.infectiousdisease.cam.ac.uk/directory/clt56@cam.ac.uk
@@ -166,59 +223,13 @@
   title_link: /models/men-a
   email: ak889@cam.ac.uk 
   img: '/img/people/Andromachi_Karachaliou.png'
-
-- name: Mike Jackson
-  url: https://www.kpwashingtonresearch.org/our-research/our-scientists/jackson-michael-l/
-  title: MenA model 
+  
+- name: Eric Johnson
+  url: 
+  title: MenA model
   title_link: /models/men-a#cdc
-  email: Michael.L.Jackson@kp.org
-  img: '/img/people/Mike_Jackson.png'
-
-- name: Emilia Vynnycky
-  url: http://www.lshtm.ac.uk/aboutus/people/vynnycky.emilia
-  title: Rubella model 
-  title_link: /models/rubella
-  email: Emilia.Vynnycky@phe.gov.uk  
-  img: '/img/people/Emilia_Vynnycky.png'
-  
-- name: Timos Papadopoulos
-  url: https://www.linkedin.com/in/timos-papadopoulos-a7a7a217/  
-  title: Rubella model 
-  title_link: /models/rubella
-  email: timos.papadopoulos@phe.gov.uk   
-  img: '/img/people/Timos_Papadopoulos.png'   
-
-- name: Justin Lessler   
-  url: https://www.jhsph.edu/faculty/directory/profile/2566/justin-lessler   
-  title: Rubella model   
-  title_link: /models/rubella
-  title2: Cholera model
-  title2_link: /models/cholera
-  email:  justin@jhu.edu   
-  img: '/img/people/Justin_Lessler.png'   
-  
-- name: Amy Winter  
-  url: https://scholar.google.com/citations?user=Y4PDlfkAAAAJ&hl=en&oi=ao   
-  title: Rubella model   
-  title_link: /models/rubella   
-  email:  akwinter@jhu.edu    
-  img: '/img/people/Amy_Winter.png'   
-  
-- name: Shaun Truelove
-  url: https://www.linkedin.com/in/shaun-truelove-ba9315a/    
-  title: Rubella model   
-  title_link: /models/rubella   
-  title2: Cholera model
-  title2_link: /models/cholera
-  email: shauntruelove@jhu.edu        
-  img: '/img/people/Shaun_Truelove.png'   
-  
-- name: Jessica Metcalf   
-  url: http://metcalflab.princeton.edu/about-jess/     
-  title: Rubella model   
-  title_link: /models/rubella   
-  email: cmetcalf@princeton.edu     
-  img: '/img/people/Jess_Metcalf.png' 
+  email: eric.Johnson@kp.org
+  img: '/img/people/placeholder.png' 
   
 - name: Tini Garske
   url: http://www.imperial.ac.uk/people/t.garske
@@ -244,7 +255,7 @@
 - name: Keith Fraser   
   url: https://www.imperial.ac.uk/people/keith.fraser   
   title: Yellow fever model   
-  img: '/img/people/placeholder.png'   
+  img: '/img/people/Keith_Fraser.jpg'
 
 - name: Alex Perkins   
   url: http://biology.nd.edu/people/alex-perkins/   
@@ -259,41 +270,52 @@
   title_link: /models/yellow-fever   
   email: smoore15@nd.edu   
   img: '/img/people/Sean_Moore.png'
+   
+- name: Emilia Vynnycky
+  url: http://www.lshtm.ac.uk/aboutus/people/vynnycky.emilia
+  title: Rubella model 
+  title_link: /models/rubella
+  email: Emilia.Vynnycky@phe.gov.uk  
+  img: '/img/people/Emilia_Vynnycky.png'
   
-- name: John Huber  
-  url: https://biology.nd.edu/about/personnel-directory/
-  title: Yellow fever model   
-  title_link: /models/yellow-fever   
-  email: John.H.Huber.24@nd.edu   
-  img: '/img/people/John_Huber.png'
+- name: Timos Papadopoulos
+  url: https://www.linkedin.com/in/timos-papadopoulos-a7a7a217/  
+  title: Rubella model 
+  title_link: /models/rubella
+  email: timos.papadopoulos@phe.gov.uk   
+  img: '/img/people/Timos_Papadopoulos.png'   
   
-- name: Ben Lopman
-  url: https://www.sph.emory.edu/faculty/profile/index.php?FID=benjamin-lopman-8568
-  title: Rotavirus Model 
-  title_link: /models/hib
-  email: benjamin.alan.lopman@emory.edu
-  img: '/img/people/Ben_Lopman.png'  
+- name: Amy Winter  
+  url: https://scholar.google.com/citations?user=Y4PDlfkAAAAJ&hl=en&oi=ao   
+  title: Rubella model   
+  title_link: /models/rubella   
+  email:  awinter@uga.edu
+  img: '/img/people/Amy_Winter.png'   
+    
+- name: Jessica Metcalf   
+  url: http://metcalflab.princeton.edu/about-jess/     
+  title: Rubella model   
+  title_link: /models/rubella   
+  email: cmetcalf@princeton.edu     
+  img: '/img/people/Jess_Metcalf.png' 
   
-- name: Molly Steele
-  url: https://www.blopman.net/ourteam
-  title: Rotavirus Model 
-  title_link: /models/hib
-  email: molly.steele@emory.edu   
-  img: '/img/people/Molly_Steele.png'  
-
-- name: Alicia Kraay
-  url: https://www.blopman.net/ourteam
-  title: Rotavirus Model 
-  title_link: /models/hib
-  email: alicia.nicole.mullis.kraay@emory.edu   
-  img: '/img/people/Kraay_Headshot-square.jpg' 
-
-- name: Emily Carter
-  url: https://www.jhsph.edu/faculty/directory/profile/3517/emily-d-carter 
-  title: Lives Saved Tool (LiST) (Hib, rotavirus and pneumococcal model)
-  title_link: /models/hib#jhu
-  email: ecarter@jhu.edu 
-  img: '/img/people/Emily_Carter.png'
+- name: Shaun Truelove
+  url: https://www.linkedin.com/in/shaun-truelove-ba9315a/    
+  title: Rubella model   
+  title_link: /models/rubella   
+  title2: Cholera model
+  title2_link: /models/cholera
+  email: shauntruelove@jhu.edu        
+  img: '/img/people/Shaun_Truelove.png' 
+  
+- name: Justin Lessler   
+  url: https://www.jhsph.edu/faculty/directory/profile/2566/justin-lessler   
+  title: Rubella model   
+  title_link: /models/rubella
+  title2: Cholera model
+  title2_link: /models/cholera
+  email:  justin@jhu.edu   
+  img: '/img/people/Justin_Lessler.png' 
 
 - name: Elizabeth Lee
   url: https://www.jhsph.edu/faculty/directory/profile/4002/elizabeth-lee
@@ -301,6 +323,27 @@
   title_link: /models/cholera 
   email: elizabeth.c.lee@jhu.edu
   img: '/img/people/Elizabeth_Lee_2.png'
+  
+- name: Hanmeng Xu
+  url: 
+  title: Cholera Model 
+  title_link: /models/cholera 
+  email: hxu70@jhmi.edu
+  img: '/img/people/placeholder.png' 
+  
+- name: Kaiyue Zou
+  url: https://www.linkedin.com/in/kaiyue-zou-a105661a8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvkSpCFIETJaF4c7kPWf7UQ%3D%3D
+  title: Cholera Model 
+  title_link: /models/cholera 
+  email: kzou7@jhu.edu
+  img: '/img/people/Kaiyue_Zou.jpg'
+  
+- name: Andrew Azman
+  url: https://www.jhsph.edu/faculty/directory/profile/3186/andrew-s-azman
+  title: Cholera Model 
+  title_link: /models/cholera 
+  email: azman@jhu.edu
+  img: '/img/people/andrew_azman_2.png'
 
 - name: Jong-Hoon Kim
   url: https://kimfinale.github.io/homepage/
@@ -311,54 +354,33 @@
   email: jonghoon.kim@ivi.int 
   img: '/img/people/JongHoon_Kim.png'
   
+- name: Chaelin Kim
+  url: https://www.linkedin.com/in/chaelin-kim-959bbaa8/
+  title: Cholera Model
+  title_link: /models/cholera
+  title2: Typhoid Fever Model
+  title2_link: /models/typhoid-fever
+  email: Chaelin.Kim@ivi.int
+  img: '/img/people/Chaelin_Kim.jpg' 
+      
 - name: Virginia Pitzer
   url: https://medicine.yale.edu/lab/pitzer/
   title: Typhoid Fever Model
   title_link: /models/typhoid-fever
   email: virginia.pitzer@yale.edu 
   img: '/img/people/PitzerGinny.png'
-  
-- name: Vittal Mogasale 
-  url: https://www.linkedin.com/in/vittal-mogasale-2794966/ 
-  title: Cholera Model
-  title_link: /models/cholera
-  title2: Typhoid Fever Model
-  title2_link: /models/typhoid-fever
-  email: vmogasale@ivi.int 
-  img: '/img/people/Vittal Mogasale.png'
-  
-- name: Andrew Azman
-  url: https://www.jhsph.edu/faculty/directory/profile/3186/andrew-s-azman
-  title: Cholera Model 
-  title_link: /models/cholera 
-  email: azman@jhu.edu
-  img: '/img/people/andrew_azman_2.png'
-  
-- name: Han Fu
-  title: Measles Model (DynaMICE)
-  title_link: /models/measles
-  title2: PRIME (HPV model) 
-  title2_link: /models/hpv
-  email: Han.Fu@lshtm.ac.uk
-  img: '/img/people/Han_Fu_2.png'
-   
-- name: Eric Johnson
-  url: 
-  title: MenA model
-  title_link: /models/men-a#cdc
-  email: eric.Johnson@kp.org
-  img: '/img/people/placeholder.png'
+ 
+- name: Holly Burrows
+  url: https://www.linkedin.com/in/hollyaburrows/
+  title: Typhoid Fever Model
+  title_link: /models/typhoid-fever
+  email: holly.burrows@yale.edu
+  img: '/img/people/Holly_Burrows.jpg'
   
 - name: Cynthia Chen Huijun
   url: https://sph.nus.edu.sg/faculty-directory/chen-huijun-cynthia/
-  title: PCV
+  title: PCV (PcVAC)
   title_link:
   email: ephchc@nus.edu.sg
   img: '/img/people/Cynthia_Chen.jpeg'
   
-- name: Jemima Koh Jia En
-  url: 
-  title: PCV
-  title_link:
-  email: ephjkje@nus.edu.sg
-  img: '/img/people/Jemima_Koh.jpeg'

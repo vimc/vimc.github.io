@@ -1,6 +1,14 @@
 - name: Consortium-wide publications
   id: 
   pubs:
+  
+  
+    - author: '**Second VIMC-wide publication** - Toor, J. et al.'  
+      year:   2021
+      title:  'Lives saved with vaccination for 10 pathogens across 112 countries in a pre-COVID-19 world'
+      info:   eLife, 10:e67635. doi:10.7554/eLife.67635
+      url:    https://doi.org/10.7554/eLife.67635
+              
     - author: '**First VIMC-wide publication** - Li, X. et al.'  
       year:   2021
       title:  'Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study'
@@ -10,18 +18,24 @@
     - author: '**VIMC methodological paper** - Echeverria. Londono, S., Li X., Toor, J., de Villiers, M.J., Nayagam, S., Hallett, T.B., Abbas, K., Jit, M., Klepac, P., Jean, K., Garske, T., Ferguson, N.M., Gaythorpe, K.A.M.'
       year:   2021
       title:  'How can the public health impact of vaccination be estimated?'
-      info:   medRxiv
-      url:    https://www.medrxiv.org/content/10.1101/2021.01.08.21249378v1
+      info:   BMC
+      url:    https://doi.org/10.1186/s12889-021-12040-9
       
          
 - name: Publications on the effect of the COVID-19 pandemic on vaccine preventable diseases
   id: 
   pubs:
-    - author: '**Pre-print of VPD-COVID phase 1 paper** - Gaythorpe, K., Abbas, K., Huber, J., Karachaliou, A., Thakkar, N., Woodruff, K., Li, X., Echeverria-Londono, S., VIMC Working Group on COVID-19 Impact on Vaccine Preventable Disease, Ferrari, M., Jackson, M.L.,  McCarthy, K., Perkins, A.,  Trotter, C., Jit, M.'
+    - author: Toor, J., Li, X., Jit, M., Trotter, C.L., Echeverria-Londono, S., Hartner, A-M., Roth, J., Portnoy, A., Abbas, K., Ferguson, N.M., Gaythorpe, K.A.M.
+      year:   2022
+      title:  'COVID-19 impact on routine immunisations for vaccine-preventable diseases: Projecting the effect of different routes to recovery'
+      info:   MedRxiv
+      url:    https://doi.org/10.1101/2022.01.07.22268891
+      
+    - author: 'Gaythorpe, K.A.M., Abbas, K., Huber, J., Karachaliou, A., Thakkar, N., Woodruff, K., Li, X., Echeverria-Londono, S., VIMC Working Group on COVID-19 Impact on Vaccine Preventable Disease, Ferrari, M., Jackson, M.L.,  McCarthy, K., Perkins, T.A.,  Trotter, C., Jit, M.'
       year:   2021
-      title:  'Health impact of routine immunisation service disruptions and mass vaccination campaign suspensions caused by the COVID-19 pandemic: Multimodel comparative analysis of disruption scenarios for measles, meningococcal A, and yellow fever vaccination in 10 low- and lower middle-income countries'
-      info:   medRxiv
-      url:    https://www.medrxiv.org/content/10.1101/2021.01.25.21250489v1
+      title:  'Impact of COVID-19-related disruptions to measles, meningococcal A, and yellow fever vaccination in 10 countries'
+      info:   eLife
+      url:    https://elifesciences.org/articles/67023
          
     - author: Abbas, K., Procter S. R., Flasche S.
       year:   2020
@@ -55,6 +69,12 @@
 - name: Hepatitis B
   id: hep-b
   pubs:
+    - author: de Villiers MJ, Nayagam S, Hallett TB.
+      year:   2021
+      title:  'The impact of the timely birth dose vaccine on the global elimination of hepatitis B'
+      info:   Nature Communications
+      url:    https://doi.org/10.1038/s41467-021-26475-6
+      
     - author: de Villiers MJ, Gamkrelidze I, Hallett TB, Nayagam S, Razavi H, Shearer DR.
       year:   2020
       title:  'Modelling hepatitis B virus infection and impact of timely birth dose vaccine: A comparison of two simulation models'
@@ -129,6 +149,24 @@
 - name: Human papillomavirus (HPV)
   id: hpv
   pubs:
+    - author: Portnoy A, Abbas K, Sweet S, Kim JJ, Jit M.
+      year:   2021
+      title:  'Projections of human papillomavirus (HPV) vaccination impact in Ethiopia, India, Nigeria and Pakistan: a comparative modelling study'
+      info:   BMJ Global Health
+      url:    http://dx.doi.org/10.1136/bmjgh-2021-006940
+      
+    - author: Ochalek J, Abbas K, Claxton K, Jit M, Lomas J. 
+      year:   2021
+      title:  'Assessing the value of human papillomavirus vaccination in Gavi-eligible low-income and middle-income countries'
+      info:   BMJ Global Health
+      url:    http://dx.doi.org/10.1136/bmjgh-2020-003006
+      
+    - author: Jit M, Prem K, Benard E, Brisson M. 
+      year:   2021
+      title:  'From cervical cancer elimination to eradication of vaccine-type human papillomavirus: Feasibility, public health strategies and cost-effectiveness'
+      info:   Science Direct
+      url:    https://doi.org/10.1016/j.ypmed.2020.106354
+      
     - author: Ochalek J, Abbas K, Claxton K, Jit M, Lomas J.
       year:   2020
       title:  'Assessing the value of human papillomavirus vaccination in Gavi-eligible low-income and middle-income countries'
@@ -193,6 +231,18 @@
 - name: Japanese encephalitis
   id: je
   pubs:
+    - author: Y.Cheng, N.Tran Minh, Q.Tran Minh, S.Khandelwal, H.E.Clapham 
+      year:   2022
+      title:  'Estimates of Japanese Encephalitis mortality and morbidity: A systematic review and modeling analysis'
+      info:   PLOS Neglected Tropical Diseases
+      url:    https://doi.org/10.1371/journal.pntd.0010361
+      
+    - author: Sean M. Moore
+      year:   2021
+      title:  'The current burden of Japanese encephalitis and the estimated impacts of vaccination: Combining estimates of the spatial distribution and transmission intensity of a zoonotic pathogen'
+      info:   medRxiv
+      url:    https:/doi.org/10.1101/2021.04.08.21255086
+      
     - author: Quan TM, Thao TTN, Duy NM, Nhat TM, Clapham H. 
       year:   2020
       title:  'Estimates of the global burden of Japanese encephalitis and the impact of vaccination from 2000-2015'
@@ -203,6 +253,25 @@
 - name: Measles
   id: measles
   pubs:
+  
+    - author: Echeverria-Londono S, Hartner AM, Li X, Roth J, Portnoy A, Sbarra A.N, Abbas K, Ferrari M, Fu H, Jit M, Ferguson N.M, Gaythorpe K.A.M
+      year:   2022
+      title:  'Exploring the subnational inequality and heterogeneity of the impact of routine measles immunisation in Africa'
+      info:   Vaccine
+      url:    https://doi.org/10.1016/j.vaccine.2022.09.049
+  
+    - author: Portnoy A, Hsieh Y, Abbas K, Klepac P, Santos H, Brenzel L, Jit M, Ferrari M
+      year:   2022
+      title:  'Differential health impact of intervention programs for time-varying disease risk: a measles vaccination modeling study'
+      info:   BMC Medicine
+      url:    https://doi.org/10.1186/s12916-022-02242-2
+      
+    - author: Fu H, Abbas K, Klepac P, Van Zandvoort K, Tanvir H, Portnoy A, Jit M. 
+      year:   2021
+      title:  'Effect of evidence updates on key determinants of measles vaccination impact: a DynaMICE modelling study in ten high-burden countries'
+      info:   BMC Medicine
+      url:    https://doi.org/10.1186/s12916-021-02157-4
+      
     - author: Portnoy A, Jit M, Helleringer S, Verguet S.
       year:   2020
       title:  'Comparative Distributional Impact of Routine Immunization and Supplementary Immunization Activities in Delivery of Measles Vaccine in Low- and Middle-Income Countries'
@@ -277,6 +346,12 @@
 - name: Rubella
   id: rubella
   pubs:
+    - author: Papadopoulos T, Vynnycky E.
+      year:   2022
+      title:  'Estimates of the basic reproduction number for rubella using seroprevalence data and indicator-based approaches'
+      info:   PLOS Comp Biol Press
+      url:    https://pubmed.ncbi.nlm.nih.gov/35239641/
+      
     - author: Motaze NV, Edoka I, Wiysonge CS, Metcalf CJE, Winter AK.
       year:   2016
       title:  'Rubella Vaccine Introduction in the South African Public Vaccination Schedule: Mathematical Modelling for Decision Making'
@@ -342,12 +417,69 @@
       url:    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5154464/
       
       
-- name: Other
-  id: other
+- name: Multi
+  id: multi
   pubs:
-  
+    - author: Ali HA, Hartner AM, Echeverria-Londono S, Roth J, Li X, Abbas K, Portnoy A, Vynnycky E, Woodruff K, Ferguson NM, Toor J, Gaythorpe KAM
+      year:   2022
+      title:  'Vaccine equity in low and middle-income countries: a systematic review and meta-analysis.'
+      info:   International Journal for Equity in Health
+      url:    https://doi.org/10.1186/s12939-022-01678-5
+      
+    - author: Londono SE, Li X, Toor J, de Villiers MJ, Nayagam S, Hallett TB, Abbas K, Jit M, Klepac P, Jean K, Tini Garske T, Ferguson NM, Gaythorpe KAM. 
+      year:   2021
+      title:  'How can the public health impact of vaccination be estimated?'
+      info:   BMC Public Health
+      url:    https://doi.org/10.1186/s12889-021-12040-9
+      
+    - author: Mayerová D, Abbas K. 
+      year:   2021
+      title:  'Childhood immunisation timeliness and vaccine confidence by health information source, maternal, socioeconomic, and geographic characteristics in Albania'
+      info:   BMC Public Health
+      url:    https://doi.org/10.1186/s12889-021-11724-6
+      
+    - author: Abbas K, Mogasale V. 
+      year:   2021
+      title:  'When time-dependence in disease outcome risk is not captured by impact evaluation modeling studies: a measles vaccination case study'
+      info:   medRxiv
+      url:    https://doi.org/10.1101/2021.07.12.21260376
+      
+    - author: Allison Portnoy, Yuli Lily Hsieh, Kaja Abbas, Petra Klepac, Heather Santos, Logan Brenzel, Mark Jit, Matthew Ferrari. 
+      year:   2021
+      title:  'Disruptions to childhood immunisation due to the COVID-19 pandemic'
+      info:   The Lancet
+      url:    https://doi.org/10.1016/S0140-6736(21)01418-5
+      
+    - author: Allan S, Adetifa I, Abbas K. 
+      year:   2021
+      title:  'Inequities in childhood immunisation coverage associated with socioeconomic, geographic, maternal, child, and place of birth characteristics in Kenya'
+      info:   BMC Infectious Diseases
+      url:    https://doi.org/10.1186/s12879-021-06271-9
+      
+    - author: Oliveira Cata-Preta B, Melo Santos T, Mengistu T, Hogan D, Barros A, Gomes Victoria C. 
+      year:   2021
+      title:  'Zero-dose children and the immunisation cascade: Understanding immunisation pathways in low and middle-income countries'
+      info:   Science Direct
+      url:    https://doi.org/10.1016/j.vaccine.2021.02.072
+      
+    - author: Kaboré L, Meda B, Médah I, Shendale S, Nic Lochlainn L, Sanderson C, et al.
+      year:   2020
+      title:  'Assessment of missed opportunities for vaccination (MOV) in Burkina Faso using the World Health Organization’s revised MOV strategy: Findings and strategic considerations to improve routine childhood immunization coverage'
+      info:   Science Direct
+      url:    https://doi.org/10.1016/j.vaccine.2020.10.021
+      
+    - author: Portnoy A, Vaughan K, Clarke-Deelder E, Suharlim C, Resch SC, Brenzel L, Menzies NA.
+      year:   2020
+      title:  'Producing standardized country-level immunization delivery unit cost estimates'
+      info:   Pharmaco Economics
+      url:    https://doi.org/10.1007/s40273-020-00930-6
+      
     - author: Geweniger A, Abbas KM.
       year:   2020
       title:  'Childhood vaccination coverage and equity impact in Ethiopia by socioeconomic, geographic, maternal, and child characteristics'
       info:   Vaccine, (38), 3627–3638
       url:    https://www.sciencedirect.com/science/article/pii/S0264410X20304199?via%3Dihub
+         
+
+      
+      
