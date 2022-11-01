@@ -22,8 +22,6 @@ View our interactive [data visualisation tool](https://montagu.vaccineimpact.org
 Read the accompanying article on [Imperial News.](https://www.imperial.ac.uk/news/225353/vaccines-given-last-20-years-could/)
 
 
-
-
 **Vaccines impact estimates published January 2021**
 
 Our first Consortium-wide vaccine impact estimates were published in the Lancet in January 2021, as an open access article: ['Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study'.](https://doi.org/10.1016/S0140-6736(20)32657-X)
