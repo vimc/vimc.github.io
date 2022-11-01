@@ -55,6 +55,19 @@ navbar-links:
     - Other resources: "resources"
   Dataviz: "dataviz"
 
+# List of carousel slides in index.html
+carousel:
+  - img: "https://picsum.photos/seed/1/800/400"
+    title: "First title"
+    subtitle: "First subtitle"
+  - img: "https://picsum.photos/seed/2/800/400"
+    title: "Second title"
+    subtitle: "Second subtitle"
+  - img: "https://picsum.photos/seed/3/800/400"
+    title: "Third title"
+    subtitle: "Third subtitle"
+
+
 google_analytics: "UA-100500622-1"
 
 # -------------------- Don't need to worry about these options from here down ----------------------

@@ -3,37 +3,61 @@ layout: base
 ---
 
 {% include header.html type="page" %}
+ <div id="carousel" class="carousel slide" data-ride="carousel">
+		  <ol class="carousel-indicators">
+			{% for item in site.carousel %}
+				<li data-target="#carousel" data-slide-to="{{ forloop.index-1 }}" class="{% if forloop.index == 1 %}active{% endif %}"></li>
+			{% endfor %}
+		  </ol>
+		  <div class="carousel-inner">
+			{% for item in site.carousel %}
+				<div class="carousel-item item{% if forloop.index == 1 %} active{% endif %}">
+				  <img class="d-block w-100" src="{{ item.img }}" width="100%" alt="{{ item.title }}"/>
+				  <div class="carousel-caption d-none d-md-block">
+					<h3>{{ item.title }}</h3>
+					<div class="pb-2">{{ item.subtitle }}</div>
+				  </div>
+				</div>
+			{% endfor %}
+		  </div>
+		  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+			<span class="icon-prev" aria-hidden="true"></span>
+			<span class="sr-only">Previous</span>
+		  </a>
+		  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+			<span class="icon-next" aria-hidden="true"></span>
+			<span class="sr-only">Next</span>
+		  </a>
+	  </div>
 
-<div class="container-fluid" role="main">
+
+<div class="container container-wide" role="main">
   <div class="row">
-    <div class="col-md-7 col-md-offset-2">
-      {{ content }}
-	    {% if page.comments %}
-        <div class="disqus-comments">
-	        {% include disqus.html %}
-        </div>
-	    {% endif %}
-    </div>
-
-	<div class="col-md-3 col-sm-12">
+    <div class="col-md-10 col-md-offset-1 col-sm-12">
+	  {{ content }}
+	 
+   <!-- </div>
+  </div>
+  <div class="row">
+	<div class="col-md-5 col-md-offset-1 col-sm-12">
 	  {% if site.posts.size > 0 %}
 	  <div id="panel-news">
-	    <h2>Latest News</h2>
+	    <h2><!--Latest News</h2>
         <div class="posts-list">
 		  {% for post in site.posts limit:site.num_latest_news_to_show %}
 		  <article class="post-preview">
 			<a href="{{ post.url | prepend: site.baseurl }}">
-			  <h2 class="post-title">{{ post.title }}</h2>
+			 <!-- <h2 class="post-title">{{ post.title }}</h2>
 
 			  {% if post.subtitle %}
 			  <h3 class="post-subtitle">
-				{{ post.subtitle }}
+				<{{ post.subtitle }}>
 			  </h3>
 			  {% endif %}
 			</a>
 
 			<p class="post-meta">
-			  Posted on {{ post.date | date: "%B %-d, %Y" }}
+			  Posted on {{ post.date | date: "%B %-d, %Y" }} 
 			</p>
 
 			<div class="post-entry">
@@ -42,14 +66,16 @@ layout: base
 			</div>
 		  </article>
 		  {% endfor %}
-		</div>
+		</div> 
 	  </div>
 	  {% endif %}
+	</div>
+	<div class="col-md-5 col-sm-12">
 	  {% if site.twitter %}
-	    <div id="panel-twitter">
+	   <div id="panel-twitter">
           <a class="twitter-timeline" data-height="400" href="https://twitter.com/{{ site.twitter }}">Tweets by {{ site.twitter }}</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-	    </div>
+	    </div> 
 	  {% endif %}
 	</div>
   </div>
-</div>
+</div> -->

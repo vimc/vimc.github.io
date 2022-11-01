@@ -2,7 +2,8 @@
 
 ## Editing the content of the landing page
 
-Edit the [`index.md`](index.md) file. You can write in either markdown or HTML.
+Update `carousel` items in the  [`_config.yml`](_config.yml) file. Set image src, title and subtitle.
+Place images to use in `/img/carousel`.
 
 ## Editing the content of any page EXCEPT the Model and Disease pages
 

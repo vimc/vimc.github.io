@@ -55,6 +55,12 @@ hr.small {
   }
 }
 
+@media only screen and (min-width : 1500px) {
+  .container-wide {
+    width: 1475px;
+  }
+}
+
 .main-explain-area {
   font-family: 'Palatino', 'Open Sans', 'Lato', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
@@ -782,3 +788,10 @@ body {
 div.container[role="main"], div.container-fluid[role="main"] {
   flex: 1 0 auto;
 }
+
+.carousel {
+	position: relative;
+	height: 600px;
+	width:80%
+		margin: 0 auto;
+}	
