@@ -1,10 +1,60 @@
-Neil Ferguson – Principal Investigator
-Andrew Azman – Co-Investigator
-Tom Churcher – Co-Investigator
-Ilaria Dorigatti – Co-Investigator
-Katy Gaythorpe – Co-Investigator
-Lucy Okell – Co-Investigator
-Ralf Toumi – Co-Investigator
-Caroline Trotter – Co-Investigator
-Caroline Wainwright – Co-Investigator
-Peter Winskill – Co-Investigator
+- name: Neil Ferguson
+  url:
+  title: Principal Investigator
+  email:
+  img:'/img/people/placeholder.png'
+
+- name: Andrew Azman
+  url:
+  title: Co-Investigator
+  email:
+  img:'/img/people/placeholder.png'
+  
+- name: Tom Churcher
+  url:
+  title: Co-Investigator
+  email:
+  img:'/img/people/placeholder.png'
+  
+- name: Ilaria Dorigatti
+  url:
+  title: Co-Investigator
+  email:
+  img:'/img/people/placeholder.png'
+
+- name: Katy Gaythorpe
+  url:
+  title: Co-Investigator
+  email:
+  img:'/img/people/placeholder.png'
+
+- name: Lucy Okell
+  url:
+  title: Co-Investigator
+  email:
+  img:'/img/people/placeholder.png'
+
+- name: Ralf Toumi
+  url:
+  title: Co-Investigator
+  email:
+  img:'/img/people/placeholder.png'
+  
+- name: Caroline Trotter
+  url:
+  title: Co-Investigator
+  email:
+  img:'/img/people/placeholder.png'
+  
+ - name: Caroline Wainwright
+  url:
+  title: Co-Investigator
+  email:
+  img:'/img/people/placeholder.png'
+
+ - name: Peter Winskill
+  url:
+  title: Co-Investigator
+  email:
+  img:'/img/people/placeholder.png'
+
