@@ -6,7 +6,7 @@ layout: index
 
 <b>Announcement (November 2022):</b>
 
-<b>We are delighted to announce the start of a new five-year phase of the Vaccine Impact Modelling Consortium, ‘VIMC 2.0’. This new phase will run from 2022-2027. [A summary of our plans for this new phase can be found here](/news/2022-11-14-VIMC-2-0-funding). We will be updating our website in the coming months with more details about VIMC 2.0.</b>
+<b>We are delighted to announce the start of a new five-year phase of the Vaccine Impact Modelling Consortium, ‘VIMC 2.0’. This new phase will run from 2022-2027. [A summary of our plans for this new phase can be found here](/2022-11-14-VIMC-2-0-funding). We will be updating our website in the coming months with more details about VIMC 2.0.</b>
 
 <b>The following information relates to the first phase of the Consortium (‘VIMC 1.0’, from 2016-2022).</b>
 
