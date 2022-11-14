@@ -1,3 +1,7 @@
+---
+title: VIMC 2.0 Grant Announcement
+
+---
 The Vaccine Impact Modelling Consortium is delighted to have secured renewed funding of £12.8 million (USD $15.4 million) for the next five years, for a new phase of the project. Funding comes from the Bill & Melinda Gates Foundation; Gavi, the Vaccine Alliance; and the Wellcome Trust.
 
 This new phase – ‘VIMC 2.0’ – will see a greater focus on modelling to address questions for vaccine policy and practice, working with a more diverse international community of modellers. As climate change becomes increasingly important, the Consortium will also establish a new research programme on the impact of climate change on climate-sensitive vaccine-preventable diseases.
