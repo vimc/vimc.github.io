@@ -1,6 +1,9 @@
 ---   
 title: Data visualisation    
 ---
+
+<b>The following information relates to the first phase of the Consortium (‘VIMC 1.0’, from 2016-2022). [A summary of our plans for our new project phase, VIMC 2.0 (2022 – 2027), can be found here](/2022-11-14-VIMC-2-0-funding).</b>
+
 ## [Latest Impact Estimates (model runs from 2019)](https://montagu.vaccineimpact.org/2021/visualisation)
 Data visualisation tool accompanying [Toor et al](https://doi.org/10.7554/eLife.67635).
 This displays impact estimates by calendar year, birth cohort and by year of vaccination for ten pathogens and 112 
