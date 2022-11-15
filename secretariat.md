@@ -16,6 +16,11 @@ body { background-image: none; }
 {% include list-circles.html items=site.data.science-team %}
 
 <br/>
+<div style="font-size: 36px; font-weight: bold; text-align:center;">Scientific and policy team</div>
+
+{% include list-circles.html items=site.data.science-team %}
+
+<br/>
 <div style="font-size: 36px; font-weight: bold; text-align:center;">Climate Change Research Programme</div>
 
 {% include list-circles.html items=site.data.climate-change %}
