@@ -1,5 +1,5 @@
 ---
-title: Secretariat  
+title: VIMC 2.0 Secretariat  
 ---
 
 <style>
