@@ -1,6 +1,9 @@
 ---   
 title: Newsletters   
 ---   
+
+<b>The following information relates to the first phase of the Consortium (‘VIMC 1.0’, from 2016-2022). [A summary of our plans for our new project phase, VIMC 2.0 (2022 – 2027), can be found here](/2022-11-14-VIMC-2-0-funding).</b>
+
 ## Consortium newsletters
 
 **[Consortium Newsletter - Summer 2022](https://mailchi.mp/cdc14da63661/vimc-spring-newsletter-20160640)**
