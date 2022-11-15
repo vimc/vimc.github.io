@@ -18,7 +18,7 @@ body { background-image: none; }
 <br/>
 <div style="font-size: 36px; font-weight: bold; text-align:center;">Climate Change Research Programme</div>
 
-{% include list-circles.html items=site.data.climate-change-team %}
+{% include list-circles.html items=site.data.climate-change %}
 
 <br/>
 <div style="font-size: 36px; font-weight: bold; text-align:center;">Project management team</div>
