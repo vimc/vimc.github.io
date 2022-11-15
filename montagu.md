@@ -2,6 +2,8 @@
 title: Montagu  
 ---
 
+<b>The following information relates to the first phase of the Consortium (‘VIMC 1.0’, from 2016-2022). [A summary of our plans for our new project phase, VIMC 2.0 (2022 – 2027), can be found here](/2022-11-14-VIMC-2-0-funding).</b>
+
 ## Delivery Platform for Disease Burden and Vaccine Impact Estimates   
 
 The Consortium secretariat leads the development of [“Montagu”](https://montagu.vaccineimpact.org/), a web-based delivery platform used to streamline the process of data exchange between [the modelling groups](/modellers) and [the funders](/partners/#funders). Specifically, Montagu enables easy access to the standardised input data used by the modelling groups and subsequently generated outputs used by the funders. Montagu also hosts documentation of the models, raw results, and data inputs, and will eventually provide new tools for data visualisation and analyses. 
