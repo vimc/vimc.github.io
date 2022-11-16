@@ -3,6 +3,7 @@ title: Key Partners
 css: /css/partners.css
 ---
 
+<b>The following information relates to the first phase of the Consortium (‘VIMC 1.0’, from 2016-2022). [A summary of our plans for our new project phase, VIMC 2.0 (2022 – 2027), can be found here](/2022-11-14-VIMC-2-0-funding).</b>
 
 ***[Imperial College London, Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/) - Coordinating institution***
 

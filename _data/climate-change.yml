@@ -1,0 +1,60 @@
+- name: Neil Ferguson
+  url: https://www.imperial.ac.uk/people/neil.ferguson
+  title: Principal Investigator
+  email: neil.ferguson@imperial.ac.uk
+  img: '/img/people/Neil_Ferguson.png'
+
+- name: Andrew Azman
+  url: https://www.jhsph.edu/faculty/directory/profile/3186/andrew-s-azman
+  title: Co-Investigator
+  email: azman@jhu.edu
+  img: '/img/people/andrew_azman_2.png'
+  
+- name: Thomas Churcher
+  url: https://www.imperial.ac.uk/people/thomas.churcher
+  title: Co-Investigator
+  email: thomas.churcher@imperial.ac.uk
+  img: '/img/people/Thomas_Churcher.png'
+  
+- name: Ilaria Dorigatti
+  url: https://www.imperial.ac.uk/people/i.dorigatti
+  title: Co-Investigator
+  email: i.dorigatti@imperial.ac.uk
+  img: '/img/people/Ilaria_Dorigatti.png'
+
+- name: Katy Gaythorpe
+  url: https://www.imperial.ac.uk/people/k.gaythorpe
+  title: Co-Investigator
+  email: k.gaythorpe@imperial.ac.uk
+  img: '/img/people/Katy_Gaythorpe.png'
+
+- name: Lucy Okell
+  url: https://www.imperial.ac.uk/people/l.okell
+  title: Co-Investigator
+  email: l.okell@imperial.ac.uk
+  img: '/img/people/Lucy_Okell.png'
+
+- name: Ralf Toumi
+  url: https://www.imperial.ac.uk/people/r.toumi
+  title: Co-Investigator
+  email: r.toumi@imperial.ac.uk
+  img: '/img/people/placeholder.png'
+  
+- name: Caroline Trotter
+  url: https://www.infectiousdisease.cam.ac.uk/directory/clt56@cam.ac.uk
+  title: Co-Investigator
+  email: c.trotter@imperial.ac.uk
+  img: '/img/people/Caroline_Trotter.png'
+  
+- name: Caroline Wainwright
+  url: https://www.imperial.ac.uk/people/c.wainwright
+  title: Co-Investigator
+  email: c.wainwright@imperial.ac.uk
+  img: '/img/people/placeholder.png'
+
+- name: Peter Winskill
+  url: https://www.imperial.ac.uk/people/p.winskill
+  title: Co-Investigator
+  email: p.winskill@imperial.ac.uk
+  img: '/img/people/Peter_Winskill.png'
+

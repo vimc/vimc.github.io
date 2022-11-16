@@ -5,6 +5,8 @@ bigimg: /img/VIMC_group_photo_March_2017.jpg
 
 <div style="font-size:50px; text-align:center; font-weight:bold">About us</div>
 
+<b>The following information relates to the first phase of the Consortium (‘VIMC 1.0’, from 2016-2022). [A summary of our plans for our new project phase, VIMC 2.0 (2022 – 2027), can be found here](/2022-11-14-VIMC-2-0-funding).</b>
+
 The Vaccine Impact Modelling Consortium coordinates the work of several [research groups](/modellers) modelling the impact of vaccination programmes worldwide.     
 
 The Consortium was established at the end of 2016 for a period of five years, and is coordinated by [secretariat](/secretariat) based at [Imperial College London](http://www.imperial.ac.uk/).   
