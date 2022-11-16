@@ -23,3 +23,7 @@ In addition, more specific aims of our research programme on climate change are:
 The Consortium was originally established in 2016, to deliver a more sustainable, efficient, and transparent approach to generating estimates of disease burden and vaccine impact for investments by Gavi, the Vaccine Alliance. To date, it has successfully created a rigorous methodology and platform for combining and analysing modelled estimates across 12 vaccine antigens and 112 countries. These independent and technically sound impact estimates were core to Gavi’s 2021-2025 replenishment, which raised USD $8.8billion for immunisation in low and low-middle income countries and were used to set targets for the [Immunization Agenda 2030](https://www.immunizationagenda2030.org/) strategy.
 
 We now look forward to working collaboratively with a wide range of partners to achieve our new goals. 
+
+
+> About Wellcome: Wellcome supports science to solve the urgent health challenges facing everyone. It supports discovery research into life, health and wellbeing, and is taking on three worldwide health challenges: mental health, infectious disease and climate and health.
+
