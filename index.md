@@ -4,6 +4,8 @@ layout: index
 
 <div style="font-size:50px; text-align:center; font-weight:bold">Vaccine Impact Modelling Consortium</div>
 
+VIMC is an international community of modellers providing high-quality estimates of the public health impact of vaccination, to inform and improve decision making.
+
 <b>Announcement (November 2022):</b>
 
 <b>We are delighted to announce the start of a new five-year phase of the Vaccine Impact Modelling Consortium, ‘VIMC 2.0’. This new phase will run from 2022-2027. [A summary of our plans for this new phase can be found here](/2022-11-14-VIMC-2-0-funding). We will be updating our website in the coming months with more details about VIMC 2.0.</b>
