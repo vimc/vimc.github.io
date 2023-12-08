@@ -248,6 +248,12 @@
   id: measles
   pubs:
   
+    - author: Kumar, S.S., Hartner, A.M., Chandran, A., Gaythorpe, K.A.M., Li, X.
+      year:   2023
+      title:  'Evaluating effective measles vaccine coverage in the Malaysian population accounting for between-dose correlation and vaccine efficacy'
+      info:   BMC Public Health
+      url:    https://doi.org/10.1186/s12889-023-17082-9
+      
     - author: Echeverria-Londono S, Hartner AM, Li X, Roth J, Portnoy A, Sbarra A.N, Abbas K, Ferrari M, Fu H, Jit M, Ferguson N.M, Gaythorpe K.A.M
       year:   2022
       title:  'Exploring the subnational inequality and heterogeneity of the impact of routine measles immunisation in Africa'
@@ -278,7 +284,7 @@
       info:   Vaccine, 38(14), 3062-3071
       url:    https://www.sciencedirect.com/science/article/pii/S0264410X20303017?via%3Dihub
       
-    - author: Hughes SL, Bolotin S, Khan S, Li Y,…, Jit M, et al.
+    - author: Hughes SL, Bolotin S, Khan S, Li Y, Jit M, et al.
       year:   2020
       title:  'The effect of time since measles vaccination and age at first dose on measles vaccine effectiveness – A systematic review'
       info:   Vaccine, 38(2020), 460-469
