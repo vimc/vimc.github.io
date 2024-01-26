@@ -6,6 +6,8 @@ title: Newsletters
 
 **[Test link](https://imperiallondon-my.sharepoint.com/:x:/r/personal/domalley_ic_ac_uk/Documents/PWG_Tracker_2023-2025%201.xlsx?d=w463bfc4f20794b16ad427ad85b3ac3f0&csf=1&web=1&e=vxRYw7&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMTAwLTAwMDAwMDAwMDAwMH0)**
 
+<iframe width="700" height="546" frameborder="0" scrolling="no" src="https://imperiallondon-my.sharepoint.com/personal/domalley_ic_ac_uk/_layouts/15/Doc.aspx?sourcedoc={463bfc4f-2079-4b16-ad42-7ad85b3ac3f0}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True&wdInConfigurator=True"></iframe>
+
 
 ## Consortium newsletters
 
